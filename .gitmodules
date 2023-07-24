@@ -7,3 +7,6 @@
 [submodule "Technical-Projects/DOGS-Vertx-Java-Demo"]
 	path = Technical-Projects/DOGS-Vertx-Java-Demo
 	url = https://github.com/ShirelleW/DOGS-multiverse-project-2.git
+[submodule "Technical-Projects/Store-Frontend-App-Redux-Demo"]
+	path = Technical-Projects/Store-Frontend-App-Redux-Demo
+	url = https://github.com/ShirelleW/Fake-Store-Project.git
