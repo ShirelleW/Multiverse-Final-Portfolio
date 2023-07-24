@@ -1,0 +1,227 @@
+/* HEADER -------------------------------------------------------------------------------------*/
+
+.bg-color-custom{
+  color: #69140E;
+  background-color: rgb(210, 133, 105) ;
+  height: 75px;
+  font-size: 25px;
+}
+
+/* HOME PAGE -------------------------------------------------------------------------------------*/
+.parallax {
+  /* The image used */
+  background-image: url("/img/sneakers.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+
+  /* Set a specific height */
+  min-height: 400px;
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.home-page-desc1 {
+  font-size: 80px;
+  color: rgb(210, 133, 105) ;
+  text-shadow: -1px 0 black, 0 5px black, 7px 0 black, 0 -1px black;
+  height: 0px;
+  text-align: center;
+
+}
+
+.home-page-desc2{
+  /* background: rgba(210, 133, 105, 0.5); */
+  opacity: .5;
+  font-size: 40px;
+  color: black;
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+
+.home-page-desc2::before {
+  background-color: rgba(0, 0, 0, .5);
+  z-index: -1;
+}
+
+/* ALL SHOES "/sneakers"-------------------------------------------------------------------------------------*/
+
+.shoes-container {
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.shoes-card {
+  margin-bottom: 40px;
+  margin-top: 20px;
+  width: 400px;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+  padding: 0 30px;
+  border-radius: 10px;
+  background-color: white;
+}
+
+.shoes-card:hover {
+  transform: scale(1.1);
+  box-shadow: 0 10px 40px 0 rgba(0, 0, 0, 1);
+  z-index: 3;
+  border-color: #50B2C0 !important;
+}
+
+.shoe-name {
+  font-size: 1.5rem;
+}
+
+.shoes-body {
+  background-color: blanchedalmond;
+}
+
+.price-link-style {
+  display: flex;
+  justify-content: space-between;
+}
+
+/* LINK BUTTON TO DESC -------------------------------------------------------------------------------------*/
+.link-btn-desc {
+  color: #69140E;
+  height: 35px;
+  text-decoration: none;
+}
+
+/* DESCRIPTION CARD -------------------------------------------------------------------------------------*/
+
+.desc-holder {
+  display: flex;
+  justify-content: center;
+  background-color: blanchedalmond;
+}
+
+.shoe-desc-card {
+  width: 500px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.shoe-desc-name {
+  text-align: center;
+  color: #69140E;
+}
+
+.shoe-desc-del-btn {
+  width: 200px;
+  background-color: lightgray;
+
+}
+
+.dlt-update-container {
+  margin-top: 12px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.shoe-desc-update {
+  width: 200px;
+  background-color: lightgray;
+  text-align: center;
+  border: 2px solid black;
+  text-decoration: none;
+  color: black;
+}
+
+.shoe-desc-desc {
+  color: #A44200;
+}
+
+/* UPDATE CARD / EDIT FORM "/sneakers-edit/:id" -------------------------------------------------------------*/
+.update-shoe-title {
+  text-align: center;
+}
+
+.update-card-holder {
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+}
+
+.update-card {
+  width: 500px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.update-shoe-btn {
+  border-radius: 10px;
+  height: 50px;
+}
+
+/* =======EDIT FORM======== */
+
+.update-card-edit-form {
+  display: flex;
+}
+
+.update-form-container {
+  display: flex;
+  justify-content: center;
+  margin-left: 100px;
+  align-items: center;
+  width: 800px;
+}
+
+.input-boxes {
+  margin-bottom: 30px;
+  width: 300px;
+}
+
+.input-boxes-desc {
+  margin-bottom: 30px;
+  width: 300px;
+  height: 300px;
+}
+
+/* CREATE SHOE ------------------------------------------------------------------------------------------ */
+
+.create-shoe-form-container {
+  display: flex;
+  justify-content: center;
+}
+
+.create-shoe-title {
+  text-align: center;
+}
+
+/* SEARCH SHOE ------------------------------------------------------------------------------------------ */
+
+.search-table {
+  display: flex;
+  justify-content: center;
+}
+
+.search-title {
+  text-align: center;
+  font-size: 50px;
+}
+
+
+.search-bar-container{
+  display: flex;
+  justify-content: center;
+}
+
+.search-bar{
+  width: 700px;
+
+}
+
+.search-name-img-container{
+  display: flex;
+  flex-direction: column;
+  margin-top: 40px;
+}
