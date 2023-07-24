@@ -4,3 +4,6 @@
 [submodule "Technical-Projects/PPP-Loan-Evaluation-Data-Science"]
 	path = Technical-Projects/PPP-Loan-Evaluation-Data-Science
 	url = https://github.com/ds4a-data-engineering-2-team-27/ppp-loan-evaluation.git
+[submodule "Technical-Projects/DOGS-Vertx-Java-Demo"]
+	path = Technical-Projects/DOGS-Vertx-Java-Demo
+	url = https://github.com/ShirelleW/DOGS-multiverse-project-2.git
