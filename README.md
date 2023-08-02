@@ -3,7 +3,7 @@
 
 # Multiverse Final Portfolio
 
-Here is a brief collection of projects that I've worked on during my time as a Multiverse software wenigneering apprentice
+Here is a brief collection of projects that I've worked on during my time as a Multiverse software engineering apprentice.
 
 ## Overview
 
