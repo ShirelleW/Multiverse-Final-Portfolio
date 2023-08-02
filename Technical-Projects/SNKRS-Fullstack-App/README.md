@@ -51,12 +51,18 @@ $ npm run start
 - Create, read, update, and delete product
 - Search product(s)
 
-To-do:
+### Job functions
+JF 3.2
+Can explain the principles and uses of relational and non-relational databases
 
-- Implement shopping cart feature
+JF 4.3
+Is able to build, manage and deploy code into the relevant environment
 
----
+JF 2.6
+Can translate wireframes into User Interfaces
 
-## Contact
+JF 3.7
+Can implement authentication and authorization to an API.
 
-Coded By: Shirelle, Peter, Coral, & Dante
+JF1.1
+Can explain all stages of the software development life cycle (what each stage contains, including the inputs and outputs)
