@@ -1,4 +1,4 @@
-![Shirelle Winecoff](Shirelle.png)
+![Shirelle Winecoff](ShirelleW.png)
 
 
 # Multiverse Final Portfolio
