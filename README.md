@@ -33,6 +33,10 @@ As a way to show my initiative to learning new technologies and branches of soft
 
 Shirelle Winecoff / shirellewinecoffm@gmail.com / (862) 380-1664
 
+## !!!View My Resume!!!
+
+It is apart of this repository in the main branch
+
 ## Acknowledgements
 
 I would like to thank the whole Multiverse team, especially my cohort's instructor Jonathan. He has helped all of us blossom into the capable developers we are today. 
