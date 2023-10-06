@@ -1,4 +1,5 @@
 ![Shirelle Winecoff](ShirelleW.png)
+![DOL Cert of Completion of Software Engineering Apprenticeship](DOL_CErt.png)
 
 
 # Multiverse Final Portfolio
@@ -23,7 +24,7 @@ Although I cannot include code directly from our modules in this portfolio due t
 
 My projects are seperated into the following categories: 
 
-- Backend using Java and a framework (DOGS)
+- Backend using Java and Vert.x framework (DOGS)
 - Frontend using third party API and complex state management (Store-Frontend-App)
 - Fullstack App (SNKRS)
 
