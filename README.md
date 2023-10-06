@@ -1,5 +1,5 @@
 ![Shirelle Winecoff](ShirelleW.png)
-![DOL Cert of Completion of Software Engineering Apprenticeship](DOL_CErt.png)
+![DOL Cert of Completion of Software Engineering Apprenticeship](DOL_Cert.png)
 
 
 # Multiverse Final Portfolio
